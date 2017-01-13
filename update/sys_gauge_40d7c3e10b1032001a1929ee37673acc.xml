@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>COUNT</aggregate>
+        <attributes/>
+        <fieldname/>
+        <group_field/>
+        <lower_limit/>
+        <name>Application Use Without a Purchased Subscription</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report display_value="Application Use Without a Purchased Subscription">1687ef920b202200d0cdae9b37673a69</report>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-01-13 22:42:16</sys_created_on>
+        <sys_id>40d7c3e10b1032001a1929ee37673acc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Use Without a Purchased Subscription</sys_name>
+        <sys_package display_value="MouthPiece" source="x_mouthpiece">fb970f610b1032001a1929ee37673ab4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MouthPiece">fb970f610b1032001a1929ee37673ab4</sys_scope>
+        <sys_update_name>sys_gauge_40d7c3e10b1032001a1929ee37673acc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-01-13 22:42:16</sys_updated_on>
+        <tablename>ua_app_usage</tablename>
+        <title>Application Use Without a Purchased Subscription</title>
+        <type>report</type>
+        <upper_limit/>
+        <url/>
+        <view/>
+    </sys_gauge>
+</record_update>

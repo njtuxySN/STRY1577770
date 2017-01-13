@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="BigMouth" language="en" table="x_mouthpiece_bigmouth">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>BigMouth</label>
+            <language>en</language>
+            <name>x_mouthpiece_bigmouth</name>
+            <plural>BigMouths</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-13 22:42:33</sys_created_on>
+            <sys_id>cce707e10b1032001a1929ee37673a90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>BigMouth</sys_name>
+            <sys_package display_value="MouthPiece" source="x_mouthpiece">fb970f610b1032001a1929ee37673ab4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MouthPiece">fb970f610b1032001a1929ee37673ab4</sys_scope>
+            <sys_update_name>sys_documentation_x_mouthpiece_bigmouth__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-13 22:42:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

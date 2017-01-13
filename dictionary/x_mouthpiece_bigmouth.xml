@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="BigMouth" max_length="40" name="x_mouthpiece_bigmouth" type="collection">
+        <element label="name" max_length="100" name="name" type="string"/>
+    </element>
+</database>
